@@ -1,0 +1,19 @@
+.income-expense {
+	list-style: none;
+	margin-left: 0;
+	width: 25%;
+}
+
+.income-expense li {
+	margin: 10px 0;
+}
+
+.total {
+	border-top: 1px solid black;
+	margin-top: 10px;
+}
+
+.savings {
+	list-style: none;
+	width: 33%;
+}
